@@ -1,0 +1,14 @@
+layout_spectrum: 0.7544803
+typography_spectrum: 0.8248705
+color:
+  saturation: 0.6399807
+  brandStrength: 0.9834604
+  lightness: 0.6144072
+  brandColors:
+    - '#0D2853'
+    - '#FFFFFF'
+    - '#5B779A'
+    - '#4B4C5B'
+    - '#FF7754'
+  rhythmicContrast: 0.9576625
+name: Waterandice

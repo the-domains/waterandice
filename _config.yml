@@ -1,14 +1,26 @@
-layout_spectrum: 0.7544803
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.8248705
 color:
   saturation: 0.6399807
   brandStrength: 0.9834604
-  lightness: 0.6144072
+  lightness: 0
   brandColors:
     - '#0D2853'
     - '#FFFFFF'
     - '#5B779A'
     - '#4B4C5B'
     - '#FF7754'
-  rhythmicContrast: 0.9576625
+  rhythmicContrast: 0.2007169
+layout_spectrum: 0.7544803
 name: Waterandice
